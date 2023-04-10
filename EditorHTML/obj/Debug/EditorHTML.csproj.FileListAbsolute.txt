@@ -1,0 +1,8 @@
+C:\Users\Ryan\source\repos\EditorHTML\EditorHTML\bin\Debug\EditorHTML.exe.config
+C:\Users\Ryan\source\repos\EditorHTML\EditorHTML\bin\Debug\EditorHTML.exe
+C:\Users\Ryan\source\repos\EditorHTML\EditorHTML\bin\Debug\EditorHTML.pdb
+C:\Users\Ryan\source\repos\EditorHTML\EditorHTML\obj\Debug\EditorHTML.csproj.AssemblyReference.cache
+C:\Users\Ryan\source\repos\EditorHTML\EditorHTML\obj\Debug\EditorHTML.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ryan\source\repos\EditorHTML\EditorHTML\obj\Debug\EditorHTML.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\EditorHTML\EditorHTML\obj\Debug\EditorHTML.exe
+C:\Users\Ryan\source\repos\EditorHTML\EditorHTML\obj\Debug\EditorHTML.pdb
